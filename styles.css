@@ -1,0 +1,35 @@
+
+article {
+    margin: auto;
+    width: 90%;
+    max-width: 80ch;
+    line-height: 1.15;
+
+    border: 1px solid cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    text-indent: 15px;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+    
+}
+
